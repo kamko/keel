@@ -14,7 +14,7 @@ require (
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578
 	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf
-	github.com/aws/aws-sdk-go v1.20.0
+	github.com/aws/aws-sdk-go v1.32.13
 	github.com/beorn7/perks v1.0.0
 	github.com/chai2010/gettext-go v0.0.0-20170215093142-bf70f2a70fb1
 	github.com/cyphar/filepath-securejoin v0.2.2
